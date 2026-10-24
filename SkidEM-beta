@@ -2500,7 +2500,7 @@ end
 local Window, SpooferPage, UnlockerPage, ViewPage
 local ui_ok, ui_err = pcall(function()
     Window = Library:Window({
-        Name = "Aetherea",
+        Name = “SkidEm",
         SubTitle = "RIVALS Spoofer",
         TimeRemaining = "Lifetime",
         Style = "Sidebar",
